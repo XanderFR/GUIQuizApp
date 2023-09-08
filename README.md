@@ -1,0 +1,2 @@
+# GUIQuizApp
+A trivia quiz game GUI app written in Python that asks the user 10 true or false questions taken from the Open Trivia Database through an API. The user responds to the questions by clicking on either a green "True" button or a red "False" button. The program then shows either a flash of green or red on its main canvas depending on whether or not the user answered correctly. The program keeps track of the number of questions the user got right through an embedded scoreboard and lets the user know when it has run out of questions.
